@@ -2,7 +2,7 @@
 A Magisk Module for restoring the OG DerpFest bootanimation on AOSP-based Android custom ROMs. Tested and working on Android 14 DerpFest (Marble).
 
 ## Bootanimation Sample
-https://github.com/NaeemBolchhi/derpfest-bootanimation-module/assets/42773187/475a9244-111a-45de-9c03-1085c370aecf
+https://github.com/NaeemBolchhi/derpfest-bootanimation-module/assets/42773187/403382ca-5e43-4e17-8bee-01169dc881a6
 
 ## Bootanimation Source
 The bootanimation and the preview sample have been taken from the [DerpFest Walls](https://t.me/DerpFestWalls) telegram channel. Thank you for the great work!!!
