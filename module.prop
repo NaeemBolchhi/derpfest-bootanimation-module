@@ -1,0 +1,7 @@
+id=dfbootanim
+name=DerpFest Bootanimation
+version=v0.1
+versionCode=1
+author=NaeemBolchhi
+description=Restore the original DerpFest bootanimation in smooth 60fps. Thanks to @DerpFestWalls on Telegram.
+updateJson=https://raw.githubusercontent.com/NaeemBolchhi/derpfest-bootanimation-module/main/update.json
